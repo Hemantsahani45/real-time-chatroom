@@ -4,7 +4,7 @@ It is a real-time chat application that allows users to join rooms by providing 
 
 ## Preview
 
-<image src="login.png" alt="login preview" width="45%" /> <image src="chat.png" alt="chat preview" width="45%" />
+<img width="1912" height="1009" alt="image" src="https://github.com/user-attachments/assets/8ab108b0-8f4d-4456-96d6-c2b55451ae38" />
 
 ## Features
 
